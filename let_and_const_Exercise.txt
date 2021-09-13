@@ -1,0 +1,15 @@
+﻿Refactored code:
+const PI = 3.14
+
+
+Quiz:
+The difference between var and let is that var lets you reassign and redeclare a variable with the same name. Let allows you to reassign a variable but does not allow you to redeclare a variable.
+
+
+The difference between var and let is that var lets you reassign and redeclare a variable with the same name. Const does not allow you to reassign or redeclare a variable.
+
+
+Let allows you to reassign a variable but does not allow you to redeclare a variable. Const does not allow you to reassign or redeclare a variable.
+
+
+Hoisting is the process of initializing variables declared with var first before the rest of the script has run.
